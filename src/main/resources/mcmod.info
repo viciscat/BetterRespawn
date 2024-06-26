@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "Better Respawn",
+    "description": "Avoid getting spawn killed too much",
+    "version": "${version}",
+    "mcversion": "1.12.2",
+	"url": "https://github.com/viciscat/BetterRespawn",
+	"updateUrl": "",
+	"authorList": [
+	  "Vic is a Cat"
+	],
+	"credits": "",
+	"logoFile": "",
+	"screenshots": [],
+	"dependencies": []
+  }
+]

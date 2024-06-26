@@ -1,0 +1,12 @@
+{
+  "package": "io.github.viciscat.betterrespawn.mixin",
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinGuiMainMenu"
+  ],
+  "mixins": [
+    "PlayerListMixin",
+    "EntityPlayerMPMixin"
+  ]
+}
