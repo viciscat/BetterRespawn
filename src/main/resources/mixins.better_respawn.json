@@ -1,12 +1,11 @@
 {
-  "package": "io.github.viciscat.betterrespawn.mixin",
-  "minVersion": "0.7",
-  "compatibilityLevel": "JAVA_8",
-  "client": [
-    "MixinGuiMainMenu"
-  ],
-  "mixins": [
-    "PlayerListMixin",
-    "EntityPlayerMPMixin"
-  ]
+	"package": "io.github.viciscat.betterrespawn.mixin",
+	"required": true,
+	"refmap": "mixins.better_respawn.refmap.json",
+	"target": "@env(DEFAULT)",
+	"minVersion": "0.8.5",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": ["EntityPlayerMPMixin", "PlayerListMixin"],
+	"server": [],
+	"client": ["MixinGuiMainMenu"]
 }
