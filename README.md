@@ -8,6 +8,6 @@ This makes it a bit easier to respawn and get out of a pickle when you are getti
 This being a mod for a modpack it requires some other mods!
 - Potion Core
 - SR: Parasites
+- Parasites Cotasia addon thing
 - Electroblob's Wizardry
-
-[Template used if you are interested](https://github.com/nea89o/Forge1.8.9Template/tree/1.12)
+- My own mod that changes withers to be worse.

@@ -1,18 +1,13 @@
-[
-  {
-    "modid": "${modid}",
-    "name": "Better Respawn",
-    "description": "Avoid getting spawn killed too much",
-    "version": "${version}",
-    "mcversion": "1.12.2",
-	"url": "https://github.com/viciscat/BetterRespawn",
-	"updateUrl": "",
-	"authorList": [
-	  "Vic is a Cat"
-	],
-	"credits": "",
-	"logoFile": "",
-	"screenshots": [],
-	"dependencies": []
-  }
-]
+[{
+	"modid": "${mod_id}",
+	"name": "${mod_name}",
+	"version": "${mod_version}",
+	"mcversion": "1.12.2",
+	"description": "${mod_description}",
+	"dependencies": ["potioncore", "ebwizardry", "srparasites", "srpcotesia", "wither-things"],
+	"authorList": ${mod_authors},
+	"credits": "${mod_credits}",
+	"url": "${mod_url}",
+	"updateJSON": "${mod_update_json}",
+	"logoFile": "${mod_logo_path}"
+}]

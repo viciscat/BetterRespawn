@@ -1,8 +1,6 @@
 package io.github.viciscat.betterrespawn.mixin;
 
 import io.github.viciscat.betterrespawn.injected.EntityPlayerMPWrapper;
-import it.unimi.dsi.fastutil.longs.LongArrayList;
-import it.unimi.dsi.fastutil.longs.LongList;
 import net.minecraft.entity.player.EntityPlayerMP;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Unique;
